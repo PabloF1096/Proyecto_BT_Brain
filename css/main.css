@@ -59,6 +59,7 @@ header nav a:hover{
 }
 .about_us img {
     padding: 5.6rem 0;
+    border-radius: 500px;
 }
 /*our team*/
 .our_team p:first-child{
