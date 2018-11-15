@@ -63,7 +63,10 @@ header nav a:hover{
 }
 /*our team*/
 .our_team p:first-child{
-margin-bottom: 1.8rem;
+    margin-bottom: 1.8rem;
+}
+.our_team p{
+    text-align: justify;
 }
 
 .our_team .btn{
